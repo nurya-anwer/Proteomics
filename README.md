@@ -1,6 +1,7 @@
-# Proteomics
-The structure and function analusis of ACE2- the receptor of SARS coronavirus (SARS-CoV2)
+# The structure and function analusis of ACE2- the receptor of SARS coronavirus (SARS-CoV2) 
+
 ABSTRACT
+
 Objective: angiotensin-converting enzyme 2 (ACE2), a member of the RAS (renin-angiotensin system), was found to be a receptor for SARS coronavirus (SARS-CoV2).
 The study of the structure, function, and spike glycoprotein binding site of ACE2 is particularly important for the development of vaccines and the design of treatment plans. 
 Method: Protparam, Blast, mEMBOSS, MEGA X, ClustalW, and other bioinformatics methods and tools were performed to predict the sequence characteristics, molecular structure, physical and chemical properties of ACE2 genes and their encoded proteins. 
